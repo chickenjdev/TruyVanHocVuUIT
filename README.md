@@ -17,3 +17,4 @@ Hướng dẫn cài đặt:
  + chạy lệnh : `npm install` để cài đặt các thư viện cho node 
  + chạy lệnh : `node server.js` để  run trang web
  + truy cập : localhost:3000/  
+![alt text](https://drive.google.com/file/d/1pJIDf4mLqjlWtjWZ7kEKpOSRxdGWLTZ5/view?usp=sharing)
