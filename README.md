@@ -11,6 +11,11 @@ Hệ thống hỏi đáp tự động học vụ UIT :
 
 - Chi tiết được trình bày trong slide.
  
+![alt text](./demo.png)
+
+- Video demo : https://youtu.be/aZNCiHEVQWs
+- Báo cáo : https://drive.google.com/drive/folders/18Tc6_S9XXQlPkLj8xfrulpuhwcUGC1Lj?usp=sharing
+
 Chức năng ứng dụng:
 - Hỗ trợ tìm kiếm thông tin học vụ, quy chế đào tạo, các quy định, quy trình của trường Đại học CNTT-HCM
 
@@ -22,7 +27,3 @@ Hướng dẫn cài đặt:
  + chạy lệnh : `node server.js` để  run trang web
  + truy cập : localhost:3000/  
  
-![alt text](./demo.png)
-
-- Video demo : https://youtu.be/aZNCiHEVQWs
-- Báo cáo : https://drive.google.com/drive/folders/18Tc6_S9XXQlPkLj8xfrulpuhwcUGC1Lj?usp=sharing
