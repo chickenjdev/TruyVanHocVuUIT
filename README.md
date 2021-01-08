@@ -1,4 +1,8 @@
 # TruyVanHocVuUIT
+Lớp CS336.L12.KHCL 
+- GV: Nguyễn Vinh Tiệp 
+ + SV : Nguyễn Hữu Tiền Khôi 17520650
+ + SV : Trần Hưng Đạt 17520340
 
 Hệ thống hỏi đáp tự động học vụ UIT :
 - Công cụ sử dụng :
@@ -20,3 +24,5 @@ Hướng dẫn cài đặt:
  
 ![alt text](./demo.png)
 
+- Video demo : https://youtu.be/aZNCiHEVQWs
+- Báo cáo : https://drive.google.com/drive/folders/18Tc6_S9XXQlPkLj8xfrulpuhwcUGC1Lj?usp=sharing
