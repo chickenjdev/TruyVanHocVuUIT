@@ -12,7 +12,7 @@ Chức năng ứng dụng:
 
 Hướng dẫn cài đặt:
 - Cài các thư viện underthesea, spacy, flask, BeautifulSoup trên python để chạy Backend
- + vd : pip install underthesea
+ + vd : `pip install underthesea`
 - Vào thư mục fe/ : cd fe/
  + chạy lệnh : `npm install` để cài đặt các thư viện cho node 
  + chạy lệnh : `node server.js` để  run trang web
