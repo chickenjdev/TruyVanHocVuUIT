@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(35, 136, 48);
+    text-align: center;
+    font-size: 40px;
+}
+.form-service {
+    padding: 5rem 10%;
+    margin: 20px;
+    background-color: white;
+}   
+.form-screen {
+    margin: 20px;
+    background-color: white;
+}   
+.color{
+    color: #0d81c4;
+}
